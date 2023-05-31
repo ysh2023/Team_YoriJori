@@ -541,6 +541,6 @@
       </div>
     </section>
     <!-- END 7th section -->
-    <!-- git 한글수정 완료  -->
+    <!-- git 한글수정 완료 -->
 <!-- footer -->
 <%@include file= "../common/footer.jsp" %>
